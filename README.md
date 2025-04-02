@@ -20,25 +20,31 @@ user-registration
 
 ## Instalação
 
-1. Clone o repositório:
-   ```
-   git clone <NÃO_SEI_COMO_FAZER_ISSO>
-   ```
-2. Navegue até o diretório do projeto:
-   ```
-   cd user-registration
-   ```
-3. Instale as dependências:
+1. Baixe o arquivo ZIP do Projeto e extraia ele e coloque em qualquer lugar
+
+2. Baixe o Python em [python.org](https://www.python.org), eu recomendo que baixe a versao mais recendo, é bem simples: basta executar, prosseguir e instalar.
+
+3. Instale as dependências com esse comando no terminal (você deve estar com o diretório aberto no terminal) :
    ```
    pip install -r requirements.txt
    ```
 
+Para você entrar no diretório no TERMINAL, basta você executar esse comando:
+
+   ```
+   cd C:\Users\CAMINHO\DA\PASTA\DO\PROJETO
+   ```
+
 ## Uso
 
-Para iniciar a aplicação, execute o seguinte comando:
+Para iniciar a aplicação, execute o seguinte comando com o terminal aberto na pasta do projeto que você baixou:
 ```
 python src/main.py
 ```
+
+Ou você pode ir no arquivo `main.py` e clicar 2 vezes nele para executar.
+
+Lembrando que você deve estar com a pasta aberta no terminal, ter o Python instalado e ter extraido a pasta do projeto.
 
 ## Contribuição
 
